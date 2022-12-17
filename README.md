@@ -21,6 +21,6 @@ email: alareefadegbite@gmail.com
 - Twitter: [@Al_ar_eef](https://twitter.com/Al_ar_eef)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/adegbite-al-areef-2b0b8723a)
 - facebook: [facebook](https://www.facebook.com/profile.php?id=100088347365140)
-- instagram: [instagram](https;//instagram.com/a_l_a_r_e_e_f)
+- instagram: [instagram](https://instagram.com/a_l_a_r_e_e_f)
 
 
