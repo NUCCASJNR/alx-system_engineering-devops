@@ -12,7 +12,7 @@ DIRECTORIES | DESCRIPTIONS
 [0x02-shell_redirections](0x02-shell_redirections) | introduction to shell redirections
 [0x03-shell_variables_expansions](0x03-shell_variables_expansions) | introduction to shell variables expansions
 
- ## STUDENT NAME AND EMAIL ADDRESS
+ #u# STUDENT NAME AND EMAIL ADDRESS
 ALAREEF
 
 email: alareefadegbite@gmail.com
@@ -21,5 +21,6 @@ email: alareefadegbite@gmail.com
 - Twitter: [@Al_ar_eef](https://twitter.com/Al_ar_eef)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/adegbite-al-areef-2b0b8723a)
 - facebook: [facebook](https://www.facebook.com/profile.php?id=100088347365140)
+- instagram: [instagram](https;//instagram.com/a_l_a_r_e_e_f)
 
 
