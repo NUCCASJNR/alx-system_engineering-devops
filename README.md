@@ -12,7 +12,7 @@ DIRECTORIES | DESCRIPTIONS
 [0x02-shell_redirections](0x02-shell_redirections) | introduction to shell redirections
 [0x03-shell_variables_expansions](0x03-shell_variables_expansions) | introduction to shell variables expansions
 
- #u# STUDENT NAME AND EMAIL ADDRESS
+ ## STUDENT NAME AND EMAIL ADDRESS
 ALAREEF
 
 email: alareefadegbite@gmail.com
