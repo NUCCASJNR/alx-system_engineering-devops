@@ -17,8 +17,8 @@ ALAREEF
 
 email: alareefadegbite@gmail.com
 
-- GitHub: [@NUCCASJNR](https://github.com/NUCCASJNR)
-- Twitter: [@codewithalareef](https://twitter.com/codewithalareef)
+- GitHub: [NUCCASJNR](https://github.com/NUCCASJNR)
+- Twitter: [codewithalareef](https://twitter.com/codewithalareef)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/adegbite-al-areef-2b0b8723a)
 - facebook: [facebook](https://www.facebook.com/profile.php?id=100088347365140)
 - instagram: [instagram](https://instagram.com/a_l_a_r_e_e_f)
