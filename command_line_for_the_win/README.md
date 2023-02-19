@@ -1,4 +1,4 @@
-iommand line for the win Alx task
+command line for the win Alx task
 
 ## You can also try it out via the link below
 
