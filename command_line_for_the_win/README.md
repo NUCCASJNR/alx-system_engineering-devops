@@ -1,5 +1,5 @@
-Command line for the win Alx task
+iommand line for the win Alx task
 
-## You can also try ot out via the link below
+## You can also try it out via the link below
 
 - CMD:[cmd](https://cmdchallenge.com)
