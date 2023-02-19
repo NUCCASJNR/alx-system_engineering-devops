@@ -11,6 +11,7 @@ DIRECTORIES | DESCRIPTIONS
 [0x01-shell_permissions](./0x01-shell_permissions) | introduction to shell permissions, how to make files executable using the chmod u+x command
 [0x02-shell_redirections](0x02-shell_redirections) | introduction to shell redirections
 [0x03-shell_variables_expansions](0x03-shell_variables_expansions) | introduction to shell variables expansions
+[command_line_for_the_win](./command_line_for_the_win) | Command line challenge
 
  ## STUDENT NAME AND EMAIL ADDRESS
 ALAREEF
