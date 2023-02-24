@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+function add {
+	local result=$(($1 + $2))
+	return $result
+}
+add 5 9
+sum=$?
+echo $sum
