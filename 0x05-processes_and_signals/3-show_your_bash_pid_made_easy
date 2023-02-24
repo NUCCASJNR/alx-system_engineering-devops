@@ -3,4 +3,4 @@
 #Requirements:
 #You cannot use ps
 
-pgrep -l  bash
+grep -X  bash
