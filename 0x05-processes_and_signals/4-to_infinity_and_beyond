@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #Bash script that displays To infinity and beyond indefinitely.
-i=0
-until [ $i ]
+
+until false
 do
 	echo "To infinity and beyond"
 	sleep 2
