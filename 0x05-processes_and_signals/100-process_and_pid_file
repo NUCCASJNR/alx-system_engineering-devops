@@ -18,7 +18,7 @@ do
 	echo To infinity and beyond
 	sleep 2
 
-	trap 'echo "I hate kill command"' SIGTERM
+	trap 'echo "I hate kill command" && remove_file' SIGTERM
 	trap 'echo "Y U no love me?!"' SIGINT
 	trap 'remove_file' SIGQUIT
 done
