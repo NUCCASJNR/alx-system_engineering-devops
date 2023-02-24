@@ -13,7 +13,11 @@ DIRECTORIES | DESCRIPTIONS
 [0x03-shell_variables_expansions](0x03-shell_variables_expansions) | introduction to shell variables expansions
 [command_line_for_the_win](./command_line_for_the_win) | Command line challenge
 [0x04-loops_conditions_and_parsing](./0x04-loops_conditions_and_parsing) | loops in bash scripting
- ## STUDENT NAME AND EMAIL ADDRESS
+[0x05-processes_and_signals](./0x05-processes_and_signals) | processes and signals
+[0x05-processes_and_signals](./0x05-processes_and_signals) | processes and signals::;
+
+
+## STUDENT NAME AND EMAIL ADDRESS
 ALAREEF
 
 email: alareefadegbite@gmail.com
