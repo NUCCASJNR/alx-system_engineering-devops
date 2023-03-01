@@ -4,8 +4,4 @@ Learning the basics of networking
 
 ## Resources
 
-TOPIC | Read or watch
-
-______| ______________
-
-OSI MODEL | [OSI MODEL](./https://en.wikipedia.org/wiki/OSI_model)
+OSI MODEL  [OSI MODEL](/https://en.wikipedia.org/wiki/OSI_model)
