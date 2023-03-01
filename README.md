@@ -15,6 +15,7 @@ DIRECTORIES | DESCRIPTIONS
 [0x04-loops_conditions_and_parsing](./0x04-loops_conditions_and_parsing) | loops in bash scripting
 [0x05-processes_and_signals](./0x05-processes_and_signals) | processes and signals
 [0x06-regular_expressions](./0x06-regular_expressions) | regular expressions regex or regexp 
+[0x07-networking_basics](./0x07-networking_basics) | Learn the basics of networking
 
 ## STUDENT NAME AND EMAIL ADDRESS
 ALAREEF
