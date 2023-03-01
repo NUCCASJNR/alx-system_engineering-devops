@@ -1,6 +1,6 @@
 ## 0x07-networking_basics
 
-Learning The Basics Of Networking
+Learning the basics of networking
 
 ## Resources
 
