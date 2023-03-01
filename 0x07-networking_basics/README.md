@@ -31,3 +31,7 @@ TCP/UDP PORTS LIST: [TCP/UDP PORTS LIST](https://www.howtogeek.com/190014/htg-ex
 PINT/ICMP: [PING/ICMP](https://en.wikipedia.org/wiki/Ping_%28networking_utility%29)
 
 POSITIONAL PARAMETERS: [POSITIONAL PARAMETERS](https://wiki.bash-hackers.org/scripting/posparams)
+
+## man or help
+netstat
+ping
