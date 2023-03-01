@@ -6,4 +6,5 @@ Learning the basics of networking
 
 TOPIC | Read or watch
 ______| ______________
+
 OSI MODEL | [OSI MODEL](./https://en.wikipedia.org/wiki/OSI_model)
