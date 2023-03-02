@@ -35,12 +35,9 @@ NETCAT: [NETCAT](https://www.thegeekstuff.com/2012/04/nc-command-examples/)
 
 ## TASKS
 
+## TASK 0
 
-
-
-## TASKS
-
-change your home IP
+* change your home IP
 mandatory
 Write a Bash script that configures an Ubuntu server with the below requirements.
 
