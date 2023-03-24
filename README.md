@@ -18,6 +18,7 @@ DIRECTORIES | DESCRIPTIONS
 [0x07-networking_basics](./0x07-networking_basics) | Learn the basics of networking
 [0x08-networking_basics_2](0x08-networking_basics_2) | Moving deep into Networking
 
+[0x09-web_infrastructure_design](0x09-web_infrastructure_design) | introduction to web infrastructure
 ## STUDENT NAME AND EMAIL ADDRESS
 ALAREEF
 
