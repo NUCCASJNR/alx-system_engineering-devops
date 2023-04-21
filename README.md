@@ -18,6 +18,8 @@ DIRECTORIES | DESCRIPTIONS
 [0x07-networking_basics](./0x07-networking_basics) | Learn the basics of networking
 [0x08-networking_basics_2](0x08-networking_basics_2) | Moving deep into Networking
 [0x09-web_infrastructure_design](0x09-web_infrastructure_design) | introduction to web infrastructure
+[0x0A-configuration_management](./0x0A-configuration_management) | configuration management
+
 ## STUDENT NAME AND EMAIL ADDRESS
 ALAREEF
 
@@ -25,7 +27,7 @@ email: alareefadegbite@gmail.com
 
 - GitHub: [NUCCASJNR](https://github.com/NUCCASJNR)
 - Twitter: [codewithalareef](https://twitter.com/codewithalareef)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/adegbite-al-areef-2b0b8723a)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/alareef)
 - facebook: [facebook](https://www.facebook.com/profile.php?id=100088347365140)
 - instagram: [instagram](https://instagram.com/a_l_a_r_e_e_f)
 
