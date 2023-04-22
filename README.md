@@ -19,6 +19,7 @@ DIRECTORIES | DESCRIPTIONS
 [0x08-networking_basics_2](0x08-networking_basics_2) | Moving deep into Networking
 [0x09-web_infrastructure_design](0x09-web_infrastructure_design) | introduction to web infrastructure
 [0x0A-configuration_management](./0x0A-configuration_management) | configuration management
+[0x0B-ssh](./0x0B-ssh) | private and public rsa keys
 
 ## STUDENT NAME AND EMAIL ADDRESS
 ALAREEF
