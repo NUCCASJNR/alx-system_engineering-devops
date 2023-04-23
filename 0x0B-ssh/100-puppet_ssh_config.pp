@@ -9,7 +9,6 @@
 file { 'config':
   ensure  => present,
   owner   => 'root',
-  #  group   => 'root',
   path    => '/etc/ssh/ssh_config',
-  content    => 'IdentityFile ~/.ssh/school\n PasswordAuthentication no\n Host 18.209.180.49',
+  content    => 'IdentityFile ~/.ssh/school\n PasswordAuthentication no\n User ubuntu\n Host 18.209.180.49\n',
 }
