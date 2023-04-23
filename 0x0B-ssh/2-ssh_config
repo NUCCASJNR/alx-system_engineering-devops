@@ -9,7 +9,12 @@
 
 
 #echo "User ubuntu" >> /etc/ssh/ssh_config
-echo "Host 18.209.180.49" >> /etc/ssh/ssh_config
-echo "User ubuntu" >> /etc/ssh/ssh_config
-echo "IdentityFile ~/.ssh/school" >> /etc/ssh/ssh_config
-echo "PasswordAuthentication no" >> /etc/ssh/ssh_config
+#echo "Host 18.209.180.49" >> /etc/ssh/ssh_config
+#echo "User ubuntu" >> /etc/ssh/ssh_config
+#echo "IdentityFile ~/.ssh/config" >> /etc/ssh/ssh_config
+#echo "PasswordAuthentication no" >> /etc/ssh/ssh_config
+
+Host 18.209.180.49
+	User ubuntu
+	IdentityFile ~/.ssh/school
+	PasswordAuthentication no
