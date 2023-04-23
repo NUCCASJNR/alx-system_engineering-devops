@@ -15,6 +15,6 @@
 #echo "PasswordAuthentication no" >> /etc/ssh/ssh_config
 
 Host 18.209.180.49
-	User ubuntu
-	IdentityFile ~/.ssh/school
-	PasswordAuthentication no
+User ubuntu
+IdentityFile ~/.ssh/school
+PasswordAuthentication no
