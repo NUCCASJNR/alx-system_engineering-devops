@@ -20,7 +20,7 @@ DIRECTORIES | DESCRIPTIONS
 [0x09-web_infrastructure_design](0x09-web_infrastructure_design) | introduction to web infrastructure
 [0x0A-configuration_management](./0x0A-configuration_management) | configuration management
 [0x0B-ssh](./0x0B-ssh) | private and public rsa keys
-
+[0x0C-web_server](./0x0C-web_server) | web servers
 ## STUDENT NAME AND EMAIL ADDRESS
 ALAREEF
 
