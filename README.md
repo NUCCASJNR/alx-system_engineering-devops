@@ -21,7 +21,6 @@ DIRECTORIES | DESCRIPTIONS
 [0x0A-configuration_management](./0x0A-configuration_management) | configuration management
 [0x0B-ssh](./0x0B-ssh) | private and public rsa keys
 [0x0C-web_server](./0x0C-web_server) | web servers
-[0x10-python-network_0](./0x10-python-network_0) | HTTPS
 ## STUDENT NAME AND EMAIL ADDRESS
 ALAREEF
 
