@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+#t configures a brand new Ubuntu machine to the requirements asked in this task
+
+apt-get -y update
+apt-get -y install nginx
+echo 'Hello World!' > /var/www/html/index.nginx-debian.html
+rewrite="server {
+        listen 80;
+        listen [::]:80;
+
+        root /var/www/html;
+        index index.html index.htm index.nginx-debian.html;
+
+        server_name _;
+	location / {
+	    add_header X-Served-By $hostname;
+            try_files $uri $uri/ =404;;
+}"
+
+echo -e "$rewrite" > /etc/nginx/sites-available/custom_header
+ln -sf /etc/nginx/sites-available/custom_header /etc/nginx/sites-enabled/
+sudo nginx -t
+service nginx restart
