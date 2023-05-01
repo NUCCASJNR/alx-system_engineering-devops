@@ -2,7 +2,7 @@
 #t configures a brand new Ubuntu machine to the requirements asked in this 
 apt-get -y update
 apt-get -y install nginx
-echo 'Hello World!' > /var/www/html/index.nginx-debian.html
+echo 'Hello World!' > /var/www/html/index.html
 echo "Ceci n'est pas une page" > /var/www/html/404.html
 server_config=\
 "server {
