@@ -4,14 +4,14 @@ apt-get -y update
 apt-get -y install nginx
 echo 'Hello World!' > /var/www/html/index.nginx-debian.html
 echo "Ceci n'est pas une page" > /var/www/html/404.html
-server_config=\
+server_config=
 "server {
 	listen 80 default_server;
 	listen [::]:80 default_server;
 	root /var/www/html;
 	index index.html index.htm index.nginx-debian.html;
 	server_name _;
-	add_header X-Served-By $hostname;
+	add_header X-Served-By \$hostname;
 	location / {
 		try_files \$uri \$uri/ =404;
 	}
