@@ -22,3 +22,7 @@ config_file='/etc/haproxy/haproxy.cfg'
 
 
 #config
+server_config=\
+"
+backend $domain_name-backend
+	balance round
