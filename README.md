@@ -22,6 +22,8 @@ DIRECTORIES | DESCRIPTIONS
 [0x0B-ssh](./0x0B-ssh) | private and public rsa keys
 [0x0C-web_server](./0x0C-web_server) | web servers
 [0x0F-load_balancer](./0x0F-load_balancer) | Load Balancers
+[0x0E-web_stack_debugging_1](./0x0E-web_stack_debugging_1) | web debigging
+
 
 
 ## STUDENT NAME AND EMAIL ADDRESS
