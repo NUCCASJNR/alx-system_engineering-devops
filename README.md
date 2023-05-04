@@ -1,4 +1,4 @@
-# ALX system engineering devops
+# ALX System engineering devops
 
 ## Description
 This folder contains all the directory for the alx system engineering devops tasks

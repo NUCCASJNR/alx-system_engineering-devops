@@ -23,11 +23,11 @@ config_file='/etc/haproxy/haproxy.cfg'
 
 #config
 echo "
-frontend $domain_name-frontend
+frontend my_bowser
         bind *:80
-        mode http
-        default_backend $domain_name-backend
-backend $domain_name-backend
+        default_backend server_side
+
+backend behind_the_scene
         balance roundrobin
         server 183341-web-01 18.209.180.49:80 check
         server 183341-web-02 54.87.207.177:80 check
