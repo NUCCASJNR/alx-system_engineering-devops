@@ -33,9 +33,10 @@ print_domain_info ()
 	echo "$2 $line" | awk '{print "The subdomain " $1 " is a " $5 " record and points to " $6}'
 }
 
+
 if [ $# -eq 1 ]
 then
-  print_dmain_info "$1" "www"
+  print_domain_info "$1" "www"
   print_domain_info "$1" "lb-01"
   print_domain_info "$1" "web-01"
   print_domain_info "$1" "web-02"
