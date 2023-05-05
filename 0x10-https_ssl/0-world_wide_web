@@ -42,4 +42,4 @@ then
 elif [ $# -eq 2 ]
 then
   print_Dominfo "$1" "$2"
-f
+fi
