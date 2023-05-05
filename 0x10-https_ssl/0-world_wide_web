@@ -42,5 +42,5 @@ then
   print_domain_info "$1" "web-02"
 elif [ $# -eq 2 ]
 then
-  print_Dominfo "$1" "$2"
+  print_domain_info "$1" "$2"
 fi
