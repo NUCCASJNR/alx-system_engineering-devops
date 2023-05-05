@@ -23,7 +23,7 @@ DIRECTORIES | DESCRIPTIONS
 [0x0C-web_server](./0x0C-web_server) | web servers
 [0x0F-load_balancer](./0x0F-load_balancer) | Load Balancers
 [0x0E-web_stack_debugging_1](./0x0E-web_stack_debugging_1) | web debigging
-
+[0x10-https_ssl](./0x10-https_ssl) | ssl
 
 
 ## STUDENT NAME AND EMAIL ADDRESS
