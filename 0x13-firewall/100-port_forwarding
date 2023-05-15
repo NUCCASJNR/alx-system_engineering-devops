@@ -8,6 +8,17 @@
 #   ufw-before-forward
 #
 
+# NAT table rules
+*nat
+:POSTROUTING ACCEPT [0:0]
+
+# Redirect port 8080 to 80
+-A PREROUTING -p tcp --dport 8080 -j REDIRECT --to-port 80
+
+# End NAT table rules
+
+# Begin UFW firewall rules
+
 # Don't delete these required lines, otherwise there will be errors
 *filter
 :ufw-before-input - [0:0]
