@@ -25,6 +25,7 @@ DIRECTORIES | DESCRIPTIONS
 [0x0E-web_stack_debugging_1](./0x0E-web_stack_debugging_1) | web debigging
 [0x10-https_ssl](./0x10-https_ssl) | ssl
 [0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter](./0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter) | Blog post
+[0x13-firewall](./0x13-firewall) | Firewall config
 
 
 ## STUDENT NAME AND EMAIL ADDRESS
