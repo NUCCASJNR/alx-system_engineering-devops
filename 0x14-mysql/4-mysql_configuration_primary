@@ -36,4 +36,4 @@ server-id       = 1
 log_bin         = /var/log/mysql/mysql-bin.log
 # Disabling symbolic-links is recommended to prevent assorted security risks
 symbolic-links=0
-bin_log_db = tyrell_corp
+bin_log_db    = tyrell_corp
