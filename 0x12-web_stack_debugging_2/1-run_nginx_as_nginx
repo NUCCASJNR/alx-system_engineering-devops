@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+#configures nginx to run as the nginx user
 sudo sed -i '/#user www-data/user nginx' /etc/nginx/nginx.conf
 sudo sed -i 's/80 default_server/8080 default_server/g' /etc/nginx/sites-enabled/default
 chmod 644 /etc/nginx/nginx-conf
