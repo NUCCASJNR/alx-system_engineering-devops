@@ -2,7 +2,7 @@
 
 ## replica config
 
-##on source server
+## on source server
 
 ```bash
 CREATE USER '<replication_user>'@'<replication_server>' IDENTIFIED BY '<password>';
