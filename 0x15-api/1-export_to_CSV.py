@@ -34,7 +34,5 @@ if __name__ == "__main__":
                 completed = task.get('completed')
                 title = task.get('title')
                 writer.writerow([user_id, name, completed, title])
-
-        print(f"Results saved to {file_name} file.")
     else:
         print(f"Error: {new_res.status_code}")
