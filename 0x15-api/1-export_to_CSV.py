@@ -23,8 +23,8 @@ if __name__ == "__main__":
     new_res = requests.get(new_url)
     if new_res.status_code == 200:
         data = res.json()
-        name = f"{data.get('name')}"
         tasks = new_res.json()
+        name = f"{data.get('username')}"
 
         file_name = f"{emp_id}.csv"
         with open(file_name, "w", newline="") as csv_file:
