@@ -45,7 +45,7 @@ if __name__ == "__main__":
             if task.get("completed") is True:
                 titles.append(task.get("title"))
         done = f"Employee {name} is done with tasks"
-        print("{} {}/{}:".format(done, len(real), len(tasks)))
+        print("{} ({}/{}):".format(done, len(real), len(tasks)))
         for tit in titles:
             print("\t {}".format(tit))
     else:
