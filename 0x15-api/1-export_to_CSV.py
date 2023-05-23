@@ -27,10 +27,10 @@ if __name__ == "__main__":
         name = f"{data.get('username')}"
 
         file_name = f"{emp_id}.csv"
-        with open(file_name, "w", newline="") as csv_file:
-            writer = csv.writer(csv_file)
+        with open(file_name, "w") as csv_file:
+            writer = csv.writer(csv_file,  quoting=csv.QUOTE_ALL)
             for task in tasks:
-                user_id = task.get('userId')
+                user_id = task.get("userId")
                 completed = task.get('completed')
                 title = task.get('title')
                 writer.writerow([user_id, name, completed, title])
