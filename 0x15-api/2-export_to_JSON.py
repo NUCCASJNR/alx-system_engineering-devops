@@ -35,13 +35,12 @@ if __name__ == "__main__":
                 user_id = task.get("userId")
                 completed = task.get("completed")
                 title = task.get("title")
-                for i in range(20):
-                    task_object = {
-                            user_id: [{
-                                "task": title,
-                                "completed": completed,
-                                "username": name}]
-                            }
-                json.dump(task_object, json_file)
+                task_object = {
+                        user_id: [{
+                            "task": title,
+                            "completed": completed,
+                            "username": name}]
+                        }
+            json.dump(task_object, json_file)
     else:
         print(f"Error: {new_res.status_code}")
