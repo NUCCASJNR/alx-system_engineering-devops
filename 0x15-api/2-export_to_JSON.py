@@ -26,7 +26,7 @@ if __name__ == "__main__":
     new_res = requests.get(new_url)
     if new_res.status_code == 200:
         data = res.json()
-        name = data.get('name')
+        name = data.get('username')
         tasks = new_res.json()
 
         file = f"{emp_id}.json"
