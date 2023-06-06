@@ -15,8 +15,7 @@ def number_of_subscribers(subreddit):
     if not a valid subreddit, return 0.
     """
 
-    url = f"\
-            https://www.reddit.com/r/{subreddit}/about.json"
+    url = f"https://www.reddit.com/r/{subreddit}/about.json"
     headers = {
             "User-Agent": "Fake Agent"
             }
