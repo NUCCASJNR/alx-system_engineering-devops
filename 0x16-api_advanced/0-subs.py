@@ -8,8 +8,7 @@ import requests
 
 def number_of_subscribers(subreddit):
     """
-    Gets the number of subscribers of a subreddit
-    if not a valid subreddit, return 0.
+    Returns the number of subscribers of a subreddit
     """
 
     url = f"https://www.reddit.com/r/{subreddit}/about.json"
