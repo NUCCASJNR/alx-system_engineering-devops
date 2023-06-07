@@ -31,7 +31,7 @@ DIRECTORIES | DESCRIPTIONS
 [0x15-api](./0x15-api) | Api
 [0x16-api_advanced](./0x16-api_advanced) | Api Advanced
 [0x18-webstack_monitoring](./0x18-webstack_monitoring) | Web stack monitoring
-
+[0x17-web_stack_debugging_3](./0x17-web_stack_debugging_3) | debugging
 ## STUDENT NAME AND EMAIL ADDRESS
 ALAREEF
 
